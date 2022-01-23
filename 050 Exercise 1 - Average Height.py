@@ -1,4 +1,3 @@
-import math
 # 🚨 Don't change the code below 👇
 student_heights = input("Input a list of student heights ").split()
 sum=0
@@ -9,7 +8,7 @@ for n in range(0, len(student_heights)):
 #Write your code below this row 👇
     sum = sum+student_heights[n]
     average_height=sum/len(student_heights)
-print(math.ceil(average_height))
+print(round(average_height))
 
 
 
