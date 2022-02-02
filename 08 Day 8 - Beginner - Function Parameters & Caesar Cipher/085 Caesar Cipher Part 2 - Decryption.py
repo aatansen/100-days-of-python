@@ -1,4 +1,4 @@
-en_de_command=input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
+direction=input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
 text=input("Type your message:\n").lower()
 shift_num=int(input("Type your shift number:\n"))
 
@@ -31,9 +31,9 @@ def decrypt(cipher_text,sft_amount):
     print(f"The decoded text is: {original_text}")
     
 
-if en_de_command=="encode":
+if direction=="encode":
     encrypt(message=text,sft_amount=shift_num)
-elif en_de_command=="decode":
+elif direction=="decode":
     decrypt(cipher_text=text,sft_amount=shift_num)
 else:
     print("Please type 'encode' or 'decode'")
