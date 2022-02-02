@@ -1,4 +1,4 @@
-# en_de_command=input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
+# direction=input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
 # text=input("Type your message:\n").lower()
 # shift_num=int(input("Type your shift number:\n"))
 
