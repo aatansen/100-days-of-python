@@ -6,3 +6,5 @@ Now import it:
 ```
 import prettytable
 ```
+Learned:
+- How to import packages from Pypi
