@@ -35,3 +35,9 @@ my_screen = Screen()
 print(my_screen.canvheight)
 my_screen.exitonclick()
 ```
+Learned:
+- How module work
+- What is Class,Object
+- How to create class , object
+- How to access attribute and method by object
+- Difference between Method and Class
