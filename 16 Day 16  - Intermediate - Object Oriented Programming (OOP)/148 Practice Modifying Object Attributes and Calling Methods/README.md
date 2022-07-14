@@ -1,10 +1,10 @@
 Creating object `table` from `PrettyTable` Class
-```
+```python
 from prettytable import PrettyTable
 table = PrettyTable()
 ```
 Creating table column by column:
-```
+```python
 from prettytable import PrettyTable
 table = PrettyTable()
 table.add_column("Pokemon Name",
