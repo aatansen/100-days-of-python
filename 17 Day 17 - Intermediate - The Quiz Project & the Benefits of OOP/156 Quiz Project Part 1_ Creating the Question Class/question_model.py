@@ -5,4 +5,3 @@ class Question:
 
 new_q = Question("sdgegs","False")       
 print(new_q.q_text)
-        
