@@ -6,6 +6,8 @@
 <details>
 <summary>Extra Notes</summary>
 
+## Notes
+
 ### 01 Prime Number
 
 Way 01
