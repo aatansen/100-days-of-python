@@ -3,6 +3,30 @@
 </div>
 
 </br>
+
+<details>
+<summary>Environment Setup</summary>
+
+### Python Virtual Environment
+
+Installation
+
+- `pip install virtualenv`
+
+Creation
+
+- `python -m venv env`
+
+Activation
+
+- `.\env\Scripts\activate`
+
+Deactivation
+
+- `deactivate`
+
+</details>
+
 <details>
 <summary>Extra Notes</summary>
 
