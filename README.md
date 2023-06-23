@@ -11,19 +11,27 @@
 
 Installation
 
-- `pip install virtualenv`
+```bash
+pip install virtualenv
+```
 
 Creation
 
-- `python -m venv env`
+```bash
+python -m venv env
+```
 
 Activation
 
-- `.\env\Scripts\activate`
+```bash
+.\env\Scripts\activate
+```
 
 Deactivation
 
-- `deactivate`
+```bash
+deactivate
+```
 
 </details>
 
